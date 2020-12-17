@@ -1,4 +1,4 @@
-### Hey! My name is Jack. 👋
+## Hey! My name is Jack. 👋
 
 ### 🔭 I’m currently working on Schedule-Chan
 ### 📫 Reach me at jack@jackli.dev
