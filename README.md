@@ -1,6 +1,6 @@
 ## Hey! My name is Jack. 👋
 
-🔭 I’m currently working on Schedule-Chan
+🔭 I’m currently working on Schedule-Chan \n
 📫 Reach me at jack@jackli.dev
 
 ![Jack's github stats](https://github-readme-stats.vercel.app/api?username=jackhli&show_icons=true&theme=radical)
