@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hey! 👋
+# My name is Jack.
+
+### 🔭 I’m currently working on Schedule-Chan
+
+### 📫 How to reach me:
+# 📧 jack@jackli.dev
+
 
 <!--
 **jackhli/jackhli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
