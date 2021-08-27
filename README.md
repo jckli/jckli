@@ -6,7 +6,7 @@
     <br>
     contact me at jack@jackli.dev
   </samp>
-  <img src="https://github.com/ohashizu/ohashizu/blob/master/picture.jpg" />
+  <img src="https://github.com/ohashizu/ohashizu/blob/main/picture.jpg" />
 </p>
 
 
