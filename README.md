@@ -8,4 +8,4 @@
   </samp>
 </p>
 
-![](https://i.imgur.com/fwRF1Ao.jpg)
+![](https://i.imgur.com/ZihYiHF.jpg)
