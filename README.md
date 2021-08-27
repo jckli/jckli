@@ -8,4 +8,4 @@
   </samp>
 </p>
 
-![](https://komarev.com/ghpvc/?username=ohashizu&color=blue)
+![](https://i.imgur.com/fwRF1Ao.jpg)
