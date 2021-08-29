@@ -4,6 +4,9 @@
     im from the united states and mostly code in python.
     <br>
     <br>
+    languages: python, javascript, html, css. (currently learning java)
+    <br>
+    <br>
     contact me at jack@jackli.dev
   </samp>
   <br>
