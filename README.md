@@ -1,5 +1,5 @@
 <p align="center">
-  <samp>whaddup. my name is <a href="https://github.com/jackhli">ohashi</a>.
+  <samp>whaddup. my name is <a href="https://github.com/ohashizu">ohashi</a>.
     <br> 
     im from the united states and mostly code in python.
     <br>
