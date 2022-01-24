@@ -11,7 +11,7 @@
   </samp>
 </p>
 
-![Hits](https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2Fjckli)
+![Hits](https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2Fjckli&bgRight=FAA0A0)
 
 <img src="https://github.com/ohashizu/ohashizu/blob/main/picture.jpg" align="left" width="auto" height="300"/>
 <a href="https://discordbotlist.com/bots/mangaupdates">
