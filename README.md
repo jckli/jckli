@@ -1,10 +1,10 @@
 <p align="center">
   <samp>whaddup. my name is <a href="https://github.com/ohashizu">ohashi</a>.
     <br> 
-    im from the united states and mostly code in python.
+    im from the united states and mostly code in python (somewhat of a lie now cuz apparently almost half of my coding is in javascript lol.
     <br>
     <br>
-    languages: python, javascript, html, css. (currently learning java)
+    languages: python, javascript/typescript, html, css. (currently learning java)
     <br>
     <br>
     contact me at jack@jackli.dev
