@@ -1,12 +1,18 @@
 <p align="center">
   <samp>whaddup. my name is <a href="https://github.com/ohashizu">ohashi</a>.
     <br> 
-    im from the united states and mostly code in python
+    im from the united states and mostly code in python.
     <br>
-    (somewhat of a lie now cuz apparently almost half of my coding is in javascript lol.
+    (somewhat of a lie now cuz apparently almost half of my coding is in javascript lol)
     <br>
     <br>
-    languages: python, javascript/typescript, html, css. (currently learning java)
+    my stack
+    <br>
+    languages: python, javascript/typescript, html, css (learning java)
+    <br>
+    frameworks: flask, jquery, react/next.js, tailwindcss, bootstrap
+    <br>
+    databases: mongodb
     <br>
     <br>
     contact me at jack@jackli.dev
