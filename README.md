@@ -1,7 +1,10 @@
 <p align="center">
   <img src="https://github.com/jckli/jckli/blob/main/banner.png" width="auto" height="300">
-  <br>
-  <br>
+</p>
+<p align="center">
+  <img src="https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2Fjckli&bgRight=FAA0A0" width="100px"/>
+</p>
+<p align="center">
   <samp>
     my stack
     <br>
@@ -11,8 +14,4 @@
     <br>
     databases: mongodb
   </samp>
-</p>
-
-<p align="center">
-  <img src="https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2Fjckli&bgRight=FAA0A0" width="100px"/>
 </p>
