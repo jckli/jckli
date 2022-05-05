@@ -14,10 +14,5 @@
 </p>
 
 <p align="center">
-  <a href="https://top.gg/bot/880694914365685781">
-    <img src="https://lanyard.cnrad.dev/api/326498384758308875?idleMessage=Doing%20Nothing%20:)" align="center" />
-  </a>
-  <br>
-  <br>
   <img src="https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2Fjckli&bgRight=FAA0A0" width="100px"/>
 </p>
