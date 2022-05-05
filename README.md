@@ -1,3 +1,5 @@
+<img src="https://github.com/jckli/jckli/blob/main/banner.jpg" align="center" width="auto" height="300">
+
 <p align="center">
   <samp>whaddup. my name is <a href="https://github.com/jckli">ohashi</a>.
     <br> 
