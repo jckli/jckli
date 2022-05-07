@@ -5,7 +5,7 @@
   <samp>
     my stack
     <br>
-    languages: python, javascript/typescript, html, css (learning java)
+    languages: python, javascript/typescript, html, css, java
     <br>
     frameworks: flask, jquery, react/next.js, tailwindcss, bootstrap
     <br>
