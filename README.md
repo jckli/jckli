@@ -10,6 +10,9 @@
     frameworks: flask, jquery, react/next.js, tailwindcss, bootstrap
     <br>
     databases: mongodb
+    <br>
+    <br>
+    <a href="https://jackli.dev/discord">discord</a>
   </samp>
   <br>
   <br>
