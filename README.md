@@ -11,10 +11,10 @@
       databases: mongodb
       <br>
       <br>
-
       <a href="https://jackli.dev/discord">discord</a>
+      <br>
+      image by <a href="https://twitter.com/reoenl">@reoenl</a>
     </samp>
-    <br>
     <br>
     <img src="https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2Fjckli&bgRight=FAA0A0" width="100px"/>
   </p>
