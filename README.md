@@ -17,6 +17,6 @@
     </samp>
     <br>
     <br>
-    <img src="https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2Fjckli&bgRight=FAA0A0" width="100px"/>
+    <img src="https://hits-app.vercel.app/hits?url=https%3A%2F%2Fgithub.com%2Fjckli&bgRight=FAA0A0" width="100px"/>
   </p>
 </p>
