@@ -26,6 +26,8 @@ i personally use 2 different operating systems, as i have a macbook as a laptop 
 
 ## tech stack
 
+### languages
+
 - python
   - main language for projects
   - backend: [sanic](https://sanic.dev/) or [flask](https://flask.palletsprojects.com/)
@@ -37,3 +39,16 @@ i personally use 2 different operating systems, as i have a macbook as a laptop 
 - go
   - for efficient applcations
   - backend: [http-router](https://github.com/julienschmidt/httprouter)
+
+i hate using raw html and css unless its in a javascript framework
+
+### other stuff
+
+- [cloudflare](https://www.cloudflare.com/) (for all my dns management)
+- databases
+  - mongodb
+  - postgresql
+- personal server
+  - [proxmox](https://www.proxmox.com/) (main os)
+  - [debian](https://www.debian.org/) (virtualized os, linux distro preference)
+  - [wireguard](https://www.wireguard.com/) (vpn tunnel)
