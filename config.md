@@ -74,3 +74,4 @@ i hate using raw html and css unless its in a javascript framework
     - gmk tuzi clones (keycaps)
   - shure sm58 (mic)
   - klipsch synergy b-2 (speakers)
+  - bose 700 (headphones)
