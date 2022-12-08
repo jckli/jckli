@@ -13,6 +13,8 @@
       <br>
       <a href="https://jackli.dev/discord">discord</a>
       <br>
+      <a href="https://github.com/jckli/jckli/blob/main/config.md">config</a>
+      <br>
       image by <a href="https://twitter.com/reoenl">@reoenl</a>
     </samp>
     <br>
