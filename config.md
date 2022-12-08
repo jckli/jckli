@@ -23,3 +23,17 @@ i personally use 2 different operating systems, as i have a macbook as a laptop 
 - [oh my zsh](https://ohmyz.sh/) (macos only, windows i use git bash)
   - theme: [bliss-zsh](https://github.com/jckli/bliss-zsh) (modified by me)
 - [termius](https://termius.com/) (my ssh client of choice)
+
+## tech stack
+
+- python
+  - main language for projects
+  - backend: [sanic](https://sanic.dev/) or [flask](https://flask.palletsprojects.com/)
+- javascript (mainly typescript)
+  - website development
+  - runtime: [bun](https://bun.sh/) (macos) or [node.js](https://nodejs.org/) (windows)
+  - frontend: [next.js](https://nextjs.org/) (react framework) + [tailwindcss](https://tailwindcss.com/)
+    - (i mainly use all the stuff in my [next-template](https://github.com/jckli/next-template))
+- go
+  - for efficient applcations
+  - backend: [http-router](https://github.com/julienschmidt/httprouter)
