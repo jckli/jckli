@@ -52,3 +52,25 @@ i hate using raw html and css unless its in a javascript framework
   - [proxmox](https://www.proxmox.com/) (main os)
   - [debian](https://www.debian.org/) (virtualized os, linux distro preference)
   - [wireguard](https://www.wireguard.com/) (vpn tunnel)
+
+## setup
+
+- mac (laptop)
+  - 2022 13.6" macbook air m2 (base specs + 16gb ram)
+- windows (desktop)
+  - pc specs
+    - intel i7-5820k (cpu)
+    - be quiet! dark rock pro 4 (cpu cooler)
+    - gigabyte x99-ud3p (motherboard)
+    - thermaltake smart 750w (psu)
+    - gigabyte geforce gtx 750 ti 4gb (gpu)
+    - gskill aegis 16gb 4x4gb ddr4-2133 (ram)
+    - lian li lancool 3 (case)
+  - logitech g pro wireless (mouse)
+  - logitech powerplay (mousepad)
+  - keyboard
+    - qk65 + fr4 plate (base)
+    - box jades + meteor oranges (switches)
+    - gmk tuzi clones (keycaps)
+  - shure sm58 (mic)
+  - klipsch synergy b-2 (speakers)
