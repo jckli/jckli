@@ -4,7 +4,7 @@
     <samp>
       my stack
       <br>
-      languages: python, javascript/typescript, go, html, css, java
+      languages: python, javascript/typescript, go, rust, html, css, java
       <br>
       frameworks: flask, jquery, react/next.js, tailwindcss, bootstrap
       <br>
