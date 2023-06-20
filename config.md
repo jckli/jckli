@@ -8,9 +8,19 @@
 
 ## preface
 
-i personally use 2 different operating systems, as i have a macbook as a laptop and a desktop pc. i use macos on my laptop and windows on my desktop pc.
+~~i personally use 2 different operating systems, as i have a macbook as a laptop and a desktop pc. i use macos on my laptop and windows on my desktop pc.~~
 
 ## dev environment
+
+new/macos:
+
+- [neovim](https://neovim.io/) (ide)
+  - theme: [catppuccin](https://github.com/catppuccin/catppuccin) (mocha)
+  - view my plugins in my [dotfiles](https://github.com/jckli/dotfiles/tree/master/nvim)
+- [oh my zsh](https://ohmyz.sh/) (macos only, windows i use git bash)
+  - theme: [bliss-zsh](https://github.com/jckli/bliss-zsh) (modified by me)
+
+old/windows:
 
 - [visual studio code](https://code.visualstudio.com/) (ide)
   - theme: [material theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-community-material-theme) (darker high contrast)
@@ -20,8 +30,6 @@ i personally use 2 different operating systems, as i have a macbook as a laptop 
     - [tailwind css intellisense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
     - [discord presence](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode) (gotta flex on people yk)
 - [git](https://git-scm.com/) (of course)
-- [oh my zsh](https://ohmyz.sh/) (macos only, windows i use git bash)
-  - theme: [bliss-zsh](https://github.com/jckli/bliss-zsh) (modified by me)
 - [termius](https://termius.com/) (my ssh client of choice)
 
 ## tech stack
