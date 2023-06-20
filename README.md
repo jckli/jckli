@@ -1,5 +1,5 @@
 <p float="left">
-  <img src="side-images/side2.jpg" width="250" align="left">
+  <img src="side-images/side3.png" width="250" align="left">
   <p float="left">
     <samp>
       my stack
