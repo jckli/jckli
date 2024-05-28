@@ -15,7 +15,7 @@
       <br>
       <a href="https://github.com/jckli/jckli/blob/main/config.md">config</a>
       <br>
-      image by <a href="https://twitter.com/reoenl">@reoenl</a>
+      image by <a href="https://twitter.com/fluffy2038">@fluffy2038</a>
     </samp>
     <br>
     <br>
