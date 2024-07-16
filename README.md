@@ -4,11 +4,11 @@
     <samp>
       my stack
       <br>
-      languages: python, javascript/typescript, go, rust, html, css, java
+      languages: python, javascript/typescript, go, rust, html, css, java, c, c++
       <br>
-      frameworks: flask, jquery, react/next.js, tailwindcss, bootstrap
+      frameworks: beautifulsoup4, bootstrap, django, fasthttp, fiber, flask, jquery, next.js, numpy, pandas, react, react native, requests, sanic, tailwindcss
       <br>
-      databases: mongodb
+      databases: mongodb, redis, postgresql
       <br>
       <br>
       <a href="https://jackli.dev/discord">discord</a>
@@ -17,8 +17,5 @@
       <br>
       image by <a href="https://twitter.com/fluffy2038">@fluffy2038</a>
     </samp>
-    <br>
-    <br>
-    <img src="https://hits-app.vercel.app/hits?url=https%3A%2F%2Fgithub.com%2Fjckli&bgRight=FAA0A0" width="100px"/>
   </p>
 </p>
