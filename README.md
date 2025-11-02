@@ -13,7 +13,7 @@
       <br>
       <a href="https://jackli.dev/discord">discord</a>
       <br>
-      <a href="https://github.com/jckli/jckli/blob/main/config.md">config</a>
+      <a href="https://jackli.dev/setup">config</a>
       <br>
       image by <a href="https://twitter.com/fluffy2038">@fluffy2038</a>
     </samp>
